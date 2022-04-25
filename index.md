@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/leja21/MJGMbot/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# **마장갓마더챗(MJGMbot)**
+## *2022 서울마장초등학교 학교사용 설명서*
+업무하다가 궁금하신 것이 있으시다구요! 마장갓마더! 입니다. 무엇을 도와드릴까요?
 
 ### Markdown
 
