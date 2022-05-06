@@ -29,8 +29,9 @@ Syntax highlighted code block
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ### 서울마장초등학교 
+.학교홈페이지: https://majang.sen.es.kr
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/leja21/MJGMbot/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+https://github.com/leja21/MJGMbot/issues/4#issue-1228443068
 
 ### 참고 문헌 및 출처
 
