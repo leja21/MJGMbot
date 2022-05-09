@@ -29,7 +29,7 @@ Syntax highlighted code block
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ### 서울마장초등학교 
-.학교홈페이지: https://majang.sen.es.kr
+학교홈페이지: https://majang.sen.es.kr
 
 https://github.com/leja21/MJGMbot/issues/4#issue-1228443068
 
