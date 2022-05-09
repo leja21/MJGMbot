@@ -4,19 +4,7 @@
 👩‍🦱 오른쪽 아래 챗봇창을 클릭하시면 갓마더가 도와드리겠습니다.
 👩‍🦱 잠깐! 갓마더를 부르기 전에 아래의 안내 사항을 확인해주는 센스!
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# 
-## 
-### 
-
-- Bulleted
-- List
 
 1. Numbered
 2. List
