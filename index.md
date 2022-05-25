@@ -37,6 +37,6 @@
 
 
 ### **참고 문헌 및 출처**
-1.[서울마장초등학교 교육과정운영계획서] (https://majang.sen.es.kr/33977/subMenu.do)   
-2.[2022학년도 생활기록부기재요령] (https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=316&boardSeq=90484&lev=0&searchType=null&statusYN=W&page=3&s=moe&m=0302&opType=N)    3.[인사실무 매뉴얼(2021 수정판)] (http://buseo.sen.go.kr/web/services/bbs/bbsView.action?bbsBean.bbsCd=94&bbsBean.bbsSeq=8319&ctgCd=200)   
+1.[서울마장초등학교 교육과정운영계획서](https://majang.sen.es.kr/33977/subMenu.do)   
+2.[2022학년도 생활기록부기재요령](https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=316&boardSeq=90484&lev=0&searchType=null&statusYN=W&page=3&s=moe&m=0302&opType=N)    3.[인사실무 매뉴얼(2021 수정판)](http://buseo.sen.go.kr/web/services/bbs/bbsView.action?bbsBean.bbsCd=94&bbsBean.bbsSeq=8319&ctgCd=200)   
 4. 갓마더 그림: Mirror앱에서 제작
