@@ -32,7 +32,7 @@
 ### **서울마장초등학교** 
 
 🏤 [학교홈페이지](https://majang.sen.es.kr)   
-![학교전경](https://user-images.githubusercontent.com/103113230/167225734-e3d522aa-d1df-436f-b9be-71db36ad8c94.png)
+![학교전경](https://user-images.githubusercontent.com/103113230/167225734-e3d522aa-d1df-436f-b9be-71db36ad8c94.png){:width="50%" height="50%"}
 
 
 ### **참고 문헌 및 출처**
