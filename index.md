@@ -30,14 +30,14 @@
   6. 사용 후기를 남겨 주시면 좀 더 친절하고 전문적인 갓마더가 되는데 도움이 될 것입니다.
 
 
-### **서울마장초등학교** 
+### 🏤**서울마장초등학교** 
 
-🏤 [학교홈페이지](https://majang.sen.es.kr)   
+[학교홈페이지](https://majang.sen.es.kr)   
 ![학교전경](https://user-images.githubusercontent.com/103113230/167225734-e3d522aa-d1df-436f-b9be-71db36ad8c94.png){:width="90%" height="90%"}
 
 
 
-### **참고 문헌 및 출처**
+### 📚**참고 문헌 및 출처**
 1. [서울마장초등학교 교육과정운영계획서](https://majang.sen.es.kr/33977/subMenu.do)   
 2. [2022학년도 생활기록부기재요령](https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=316&boardSeq=90484&lev=0&searchType=null&statusYN=W&page=3&s=moe&m=0302&opType=N)   
 3. [인사실무 매뉴얼(2021 수정판)](http://buseo.sen.go.kr/web/services/bbs/bbsView.action?bbsBean.bbsCd=94&bbsBean.bbsSeq=8319&ctgCd=200)   
